@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v10.8.0-->
+<PhoronixTestSuite>
+  <Downloads>
+    <Package>
+      <URL>https://cryptopp.com/cryptopp860.zip</URL>
+      <MD5>c5441a67a351749bdeacc1ffb0c01878</MD5>
+      <SHA256>20aa413957d9c8ae353ee2f7747bd7ac392f933c60a53e3fd1e41cadbc48d193</SHA256>
+      <FileName>cryptopp860.zip</FileName>
+      <FileSize>9274149</FileSize>
+    </Package>
+  </Downloads>
+</PhoronixTestSuite>
